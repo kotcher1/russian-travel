@@ -1,0 +1,27 @@
+.footer__link {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.12;
+  color: white;
+  text-decoration: none;
+}
+
+.footer__link:nth-child(n+2) {
+  margin-left: 18px;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link:nth-child(n+2) {
+    margin-left: 0;
+    margin-top: 32px;
+  }
+
+  .footer__link {
+    font-size: 24px;
+    line-height: 1;
+  }
+}
