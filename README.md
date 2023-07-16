@@ -8,4 +8,4 @@
 Планы по доработке проекта:
 * Добавление вендорных префиксов к стилям для поддержания кроссбраузерности проекта.
 
-Ссылка на проект: https://kotcher1.github.io/russian-travel/[https://kotcher1.github.io/russian-travel/]
+Ссылка на проект: [https://kotcher1.github.io/russian-travel/](https://kotcher1.github.io/russian-travel/)
