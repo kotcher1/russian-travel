@@ -7,5 +7,9 @@
 
 Планы по доработке проекта:
 * Добавление вендорных префиксов к стилям для поддержания кроссбраузерности проекта.
+* Добавление английской версии страницы
 
 Ссылка на проект: [https://kotcher1.github.io/russian-travel/](https://kotcher1.github.io/russian-travel/)
+
+![image](https://github.com/kotcher1/russian-travel/assets/43149448/dd5cca15-c688-4697-af78-b7a719e6c547)
+
